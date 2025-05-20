@@ -73,8 +73,20 @@ Feel free to learn, remix, and experiment — but respect the original intent an
 
 ---
 
+## 🕰️ Version Policy
+
+Older versions are kept for transparency and exploration.  
+I don’t fix past builds — I build better ones.  
+If something’s broken, either fix it or upgrade to a newer version.  
+**Buddy 2.0 is where the real magic’s headed.**  
+Release date TBD but anticipated soon.
+
+---
 Stay ethical. Stay clever. Build cool shit.
 
 — Buddy Dev Team (a.k.a. me, a tired wizard with a terminal)
 
 > *The quieter you become, the more you are able to hear*
+
+
+
