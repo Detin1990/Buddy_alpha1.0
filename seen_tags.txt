@@ -1,0 +1,14 @@
+
+!exec:echo hello world!
+!exec:echo test from listener
+!exec:")) {
+!exec:echo iframe works!
+!exec:whoami!
+!exec:ip a!
+!exec:echo "whoami"!
+!exec:uptime!
+!exec:echo "uptime"!
+!exec: echo "test"!
+!exec:echo test from curl!
+!exec:echo "Boot sequence engaged. Awaiting further instructions."!
+!exec:echo "Core systems online. Standing by for deployment."!

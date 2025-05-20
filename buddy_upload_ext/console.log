@@ -1,0 +1,419 @@
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+content.js:6 [EXT] Poller booted
+dqg9b7s7muxjlzl2.js:1 Intercom not booted or setup incomplete.
+d @ dqg9b7s7muxjlzl2.js:1
+f @ dqg9b7s7muxjlzl2.js:1
+(anonymous) @ ms6wv5gmwtft94g1.js:37
+Promise.then
+nx @ ms6wv5gmwtft94g1.js:37
+nP @ ms6wv5gmwtft94g1.js:74
+R @ ms6wv5gmwtft94g1.js:132
+qv @ msupklk377u8vx8o.js:48
+useState @ msupklk377u8vx8o.js:48
+RU.ke.useState @ msupklk377u8vx8o.js:17
+(anonymous) @ ms6wv5gmwtft94g1.js:132
+Uv @ msupklk377u8vx8o.js:48
+ep @ msupklk377u8vx8o.js:48
+hE @ msupklk377u8vx8o.js:48
+FE @ msupklk377u8vx8o.js:48
+LP @ msupklk377u8vx8o.js:48
+DP @ msupklk377u8vx8o.js:48
+PE @ msupklk377u8vx8o.js:48
+JE @ msupklk377u8vx8o.js:48
+se @ msupklk377u8vx8o.js:25
+msupklk377u8vx8o.js:106 RecoverableError: Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at button (<anonymous>)
+    at hNe (k0b28rx25iwbafrv.js:204:11882)
+    at kYe (k0b28rx25iwbafrv.js:204:11328)
+    at div (<anonymous>)
+    at Ye (c6b1rlug6ihzn81q.js:1:10895)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at AYe (k0b28rx25iwbafrv.js:204:17058)
+    at Ke (c6b1rlug6ihzn81q.js:1:9871)
+    at form (<anonymous>)
+    at ut (c6b1rlug6ihzn81q.js:1:4689)
+    at hg (od0som0nzyd37v08.js:2:109894)
+    at div (<anonymous>)
+    at ms6wv5gmwtft94g1.js:74:48857
+    at ms6wv5gmwtft94g1.js:74:48474
+    at ms6wv5gmwtft94g1.js:74:49827
+    at ms6wv5gmwtft94g1.js:74:48857
+    at ms6wv5gmwtft94g1.js:74:48474
+    at ms6wv5gmwtft94g1.js:74:49827
+    at ms6wv5gmwtft94g1.js:132:41306
+    at k0b28rx25iwbafrv.js:87:18363
+    at u (ms6wv5gmwtft94g1.js:74:46898)
+    at u (ms6wv5gmwtft94g1.js:132:39765)
+    at O0 (ms6wv5gmwtft94g1.js:132:41118)
+    at XH (k0b28rx25iwbafrv.js:87:17602)
+    at nLe (k0b28rx25iwbafrv.js:204:192200)
+    at rLe (k0b28rx25iwbafrv.js:204:193509)
+    at lQe (k0b28rx25iwbafrv.js:204:195561)
+    at JKe (k0b28rx25iwbafrv.js:204:178248)
+    at yg (od0som0nzyd37v08.js:2:113805)
+    at Ag (od0som0nzyd37v08.js:2:139248)
+    at div (<anonymous>)
+    at lZe (k0b28rx25iwbafrv.js:124:1954)
+    at div (<anonymous>)
+    at iZe (k0b28rx25iwbafrv.js:124:1479)
+    at div (<anonymous>)
+    at Kg (od0som0nzyd37v08.js:2:137843)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at $g (od0som0nzyd37v08.js:2:68270)
+    at div (<anonymous>)
+    at JVe (k0b28rx25iwbafrv.js:87:30985)
+    at Ft (cnljzud8fx81s6og.js:1:7652)
+    at Provider (ms6wv5gmwtft94g1.js:38:1199)
+    at aUe (k0b28rx25iwbafrv.js:20:56168)
+    at nn (ey2eygsqh247n9he.js:3:7129)
+    at main (<anonymous>)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at div (<anonymous>)
+    at qt (byrqvkwv321ngnma.js:3:50596)
+    at Ft (cnljzud8fx81s6og.js:1:7652)
+    at Provider (ms6wv5gmwtft94g1.js:38:1199)
+    at aUe (k0b28rx25iwbafrv.js:20:56168)
+    at Be (kohneloe65x6ckm6.js:2:3062)
+    at k0b28rx25iwbafrv.js:19:17511
+    at IGe (k0b28rx25iwbafrv.js:98:6142)
+    at Ft (cnljzud8fx81s6og.js:1:7652)
+    at dn (cnljzud8fx81s6og.js:1:8359)
+    at Ft (cnljzud8fx81s6og.js:1:7652)
+    at Provider (ms6wv5gmwtft94g1.js:38:1199)
+    at Oqe (k0b28rx25iwbafrv.js:85:19954)
+    at Nze (k0b28rx25iwbafrv.js:120:14062)
+    at Zt (fm92m5vab5b66drn.js:2:10187)
+    at hgonjefbhni6ltak.js:1:1505
+    at ms6wv5gmwtft94g1.js:2:1102
+    at lk (msupklk377u8vx8o.js:62:2712)
+    at K7 (msupklk377u8vx8o.js:62:10654)
+    at JD (ms6wv5gmwtft94g1.js:132:61088)
+    at Provider (ms6wv5gmwtft94g1.js:38:1199)
+    at sL (ms6wv5gmwtft94g1.js:132:17612)
+    at gx (ms6wv5gmwtft94g1.js:38:395)
+    at Provider (ms6wv5gmwtft94g1.js:38:1199)
+    at QN (ms6wv5gmwtft94g1.js:132:14342)
+    at v3 (ms6wv5gmwtft94g1.js:118:20314)
+    at jD (ms6wv5gmwtft94g1.js:132:52905)
+    at t (msupklk377u8vx8o.js:134:6224)
+    at qD (ms6wv5gmwtft94g1.js:132:53325)
+    at FD (ms6wv5gmwtft94g1.js:132:53486)
+    at u (ms6wv5gmwtft94g1.js:74:46898)
+    at L0 (ms6wv5gmwtft94g1.js:132:45089)
+    at $D (ms6wv5gmwtft94g1.js:132:58968)
+    at em (ms6wv5gmwtft94g1.js:23:5801)
+    at s5 (ms6wv5gmwtft94g1.js:132:62753)
+    at OY (msupklk377u8vx8o.js:134:146532)
+    at _Y (msupklk377u8vx8o.js:134:143564)
+    at uC (ms6wv5gmwtft94g1.js:23:21313)
+    at aC (ms6wv5gmwtft94g1.js:23:21193)
+    at body (<anonymous>)
+    at html (<anonymous>)
+    at z0 (ms6wv5gmwtft94g1.js:132:71001)
+    at EE (ms6wv5gmwtft94g1.js:2:55371)
+    at ms6wv5gmwtft94g1.js:132:72969
+    at ms6wv5gmwtft94g1.js:2:1102
+    at lk (msupklk377u8vx8o.js:62:2712)
+    at uk (msupklk377u8vx8o.js:62:1957)
+    at _k (msupklk377u8vx8o.js:62:10005)
+    at Sk (msupklk377u8vx8o.js:62:10685)
+    at yk (msupklk377u8vx8o.js:62:6969)
+    at bB (<anonymous>)
+    at Yk (msupklk377u8vx8o.js:62:22632)
+    at W7 (msupklk377u8vx8o.js:92:2434)Caused by: Error: Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ka (msupklk377u8vx8o.js:48:24690)
+    at hE (msupklk377u8vx8o.js:48:74496)
+    at FE (msupklk377u8vx8o.js:48:107102)
+    at LP (msupklk377u8vx8o.js:48:107074)
+    at DP (msupklk377u8vx8o.js:48:106927)
+    at PE (msupklk377u8vx8o.js:48:102736)
+    at JE (msupklk377u8vx8o.js:48:114581)
+    at MessagePort.se (msupklk377u8vx8o.js:25:1594) undefined
+Vr.<computed> @ msupklk377u8vx8o.js:106
+addError @ ms6wv5gmwtft94g1.js:2
+addError @ ms6wv5gmwtft94g1.js:2
+onRecoverableError @ j3vuvhherj7zi37n.js:1
+KE @ msupklk377u8vx8o.js:48
+zE @ msupklk377u8vx8o.js:48
+UE @ msupklk377u8vx8o.js:48
+PE @ msupklk377u8vx8o.js:48
+JE @ msupklk377u8vx8o.js:48
+se @ msupklk377u8vx8o.js:25
+msupklk377u8vx8o.js:102 
+            
+            
+           GET https://chatgpt.com/backend-api/accounts/0197b65b-22f4-403d-9742-1f232303a790/settings 401 (Unauthorized)
+h @ msupklk377u8vx8o.js:102
+fetch @ ms6wv5gmwtft94g1.js:37
+safeGet @ ms6wv5gmwtft94g1.js:37
+ST.vn.queryFn @ ms6wv5gmwtft94g1.js:74
+o @ msupklk377u8vx8o.js:134
+b @ msupklk377u8vx8o.js:134
+start @ msupklk377u8vx8o.js:134
+fetch @ msupklk377u8vx8o.js:134
+#v @ msupklk377u8vx8o.js:134
+onSubscribe @ msupklk377u8vx8o.js:134
+subscribe @ msupklk377u8vx8o.js:134
+(anonymous) @ msupklk377u8vx8o.js:134
+cS @ msupklk377u8vx8o.js:48
+Gu @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+AE @ msupklk377u8vx8o.js:48
+Br @ msupklk377u8vx8o.js:48
+content.js:74 [EXT] Polled /logs — 1 block(s) received
+content.js:85 [EXT] Block:
+whoami
+root
+content.js:16 [EXT] Attempt 1: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 2: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 3: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 4: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 5: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 6: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 7: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 8: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 9: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 10: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:62 [EXT] Failed to inject message after retries.
+tryInjectBlock @ content.js:62
+content.js:74 [EXT] Polled /logs — 2 block(s) received
+content.js:81 [EXT] Duplicate block. Skipping.
+content.js:81 [EXT] Duplicate block. Skipping.
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 0 block(s) received
+content.js:74 [EXT] Polled /logs — 1 block(s) received
+content.js:85 [EXT] Block:
+ip a
+root
+content.js:16 [EXT] Attempt 1: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 2: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 3: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 4: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 5: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 6: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 7: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 8: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.
+content.js:16 [EXT] Attempt 9: Looking for input...
+content.js:27 [EXT] Input busy or user is typing. Delaying injection.

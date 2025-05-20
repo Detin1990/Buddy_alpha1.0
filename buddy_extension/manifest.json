@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Buddy 4.0 Relay",
+  "version": "1.0",
+  "description": "Detects tags in ChatGPT and sends them to Flask.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["http://127.0.0.1:8002/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

